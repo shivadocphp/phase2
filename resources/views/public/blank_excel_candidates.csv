@@ -1,0 +1,3 @@
+Name,Gender,Contact Number,E-Mail ID,Position Applying For,Current Location,Call Back Status,Candidate Status,Assigned To (Employee Id)
+tests,Female,9678656464,tests@gmail.com,PHP Developer,Coimbatore,Close,Processed,JSC001
+tests1,Male,9678656488,tests1@gmail.com,Java Developer,Chennai,Close,Processed,JSC001
